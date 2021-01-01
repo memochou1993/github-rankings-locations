@@ -4089,84 +4089,11 @@
         ]
     },
     {
-        "name": "Taiwan",
-        "cities": [
-            {
-                "name": "Changhwa",
-                "unique": true
-            },
-            {
-                "name": "Chiayi",
-                "unique": true
-            },
-            {
-                "name": "Hsinchu",
-                "unique": true
-            },
-            {
-                "name": "Hualian",
-                "unique": true
-            },
-            {
-                "name": "Ilan",
-                "unique": true
-            },
-            {
-                "name": "Kaohsiung",
-                "unique": true
-            },
-            {
-                "name": "Keelung",
-                "unique": true
-            },
-            {
-                "name": "Miaoli",
-                "unique": true
-            },
-            {
-                "name": "Nantou",
-                "unique": true
-            },
-            {
-                "name": "Penghu",
-                "unique": true
-            },
-            {
-                "name": "Pingtung",
-                "unique": true
-            },
-            {
-                "name": "Taichung",
-                "unique": true
-            },
-            {
-                "name": "Tainan",
-                "unique": true
-            },
-            {
-                "name": "Taipei",
-                "unique": true
-            },
-            {
-                "name": "Taitung",
-                "unique": true
-            },
-            {
-                "name": "Taoyuan",
-                "unique": true
-            },
-            {
-                "name": "Yunnlin",
-                "unique": true
-            }
-        ]
-    },
-    {
         "name": "Christmas Island",
         "cities": []
     },
     {
-        "name": "Cocos(Keeling)Islands",
+        "name": "Cocos (Keeling) Islands",
         "cities": []
     },
     {
@@ -4315,7 +4242,7 @@
         "cities": []
     },
     {
-        "name": "Congo(DRC)",
+        "name": "Congo (DRC)",
         "cities": []
     },
     {
@@ -13086,6 +13013,79 @@
             },
             {
                 "name": "Tartus",
+                "unique": true
+            }
+        ]
+    },
+    {
+        "name": "Taiwan",
+        "cities": [
+            {
+                "name": "Changhwa",
+                "unique": true
+            },
+            {
+                "name": "Chiayi",
+                "unique": true
+            },
+            {
+                "name": "Hsinchu",
+                "unique": true
+            },
+            {
+                "name": "Hualian",
+                "unique": true
+            },
+            {
+                "name": "Ilan",
+                "unique": true
+            },
+            {
+                "name": "Kaohsiung",
+                "unique": true
+            },
+            {
+                "name": "Keelung",
+                "unique": true
+            },
+            {
+                "name": "Miaoli",
+                "unique": true
+            },
+            {
+                "name": "Nantou",
+                "unique": true
+            },
+            {
+                "name": "Penghu",
+                "unique": true
+            },
+            {
+                "name": "Pingtung",
+                "unique": true
+            },
+            {
+                "name": "Taichung",
+                "unique": true
+            },
+            {
+                "name": "Tainan",
+                "unique": true
+            },
+            {
+                "name": "Taipei",
+                "unique": true
+            },
+            {
+                "name": "Taitung",
+                "unique": true
+            },
+            {
+                "name": "Taoyuan",
+                "unique": true
+            },
+            {
+                "name": "Yunnlin",
                 "unique": true
             }
         ]
